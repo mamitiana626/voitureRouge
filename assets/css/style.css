@@ -1,0 +1,22 @@
+#voiture{
+    width: 250px;
+    height: 85px;
+    background: red;
+    position: relative;
+    display: inline-block;
+    
+}
+button{
+    display: block;
+}
+#arriver{
+margin-left: 500px;
+margin-top: -180px;
+width: 250px;
+height: 85px;
+opacity: 0.3;
+color:white;
+background: black;
+position: absolute;
+display: inline-block;
+}
